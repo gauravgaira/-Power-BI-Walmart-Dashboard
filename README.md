@@ -43,9 +43,13 @@ Configured button navigation and page-level notes
 Disabled unwanted interactions between visuals for better user experience
 
 📈 Top Insights Uncovered:-
+
 ✅ Portland reached 1,000+ sales in December — high-performing city
+
 🏆 Top 10 Product Brands account for 25% of total revenue and exceed revenue targets
+
 📊 Current Month Transactions & Profit improved over last month — but Returns increased by 2.9%, signaling product or service issues
+
 🌎 Mexico's Market outperformed the previous month in both Profit and Revenue — deserves increased focus and investment
 
 🛠️ Tools & Skills Applied:
