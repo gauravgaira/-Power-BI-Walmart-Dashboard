@@ -8,24 +8,36 @@
 4. Use previous month as a benchmark for evaluating current month results
 
 💡 Key Features Implemented in Power BI:
+
 🔹 Matrix Visual:
+
 Displays Total Transactions, Profit, Profit Margin, and Return Rate by Product Brand
 Applied Data Bars on Transactions and Color Scales on Profit Margin (White to Green) and Return Rate (White to Red)
 Top 30 Brands visualized using Top N filter and sorted by performance
+
 🔹 KPI Cards:
+
 Current Month Transactions vs Last Month
 Current Month Profit vs Last Month
 Current Month Returns vs Last Month (with “Low is Good” formatting)
+
 🔹 Interactive Map & Treemap:
+
 Map shows Total Transactions by Store City with slicer for country (USA, Mexico, Canada)
 Treemap enables drill-down from Country → State → City for deep regional insights
+
 🔹 Weekly Revenue Trend:
+
 Column chart filtered to show only 1998 data
 Tracks revenue weekly for precise time-series performance monitoring
+
 🔹 Revenue vs Target Gauge:
+
 Visualizes current month revenue against previous month’s target
 Focuses on latest period performance, ideal for executive summary views
+
 🔹 Bookmarks & Interactions:
+
 Created bookmark for “📍 Portland hits 1,000 sales in December”
 Configured button navigation and page-level notes
 Disabled unwanted interactions between visuals for better user experience
