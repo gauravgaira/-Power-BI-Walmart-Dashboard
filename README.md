@@ -1,6 +1,8 @@
 # Walmart Market Business Intelligence Dashboard (walmart canada-mexico-usa Power BI)
 Remark:- 📽️ I invite you to kindly watch the demo video link showcasing the dashboard in action. It highlights the interactive features and demonstrates how data storytelling effectively translates complex data into actionable business insights.
 
+LINK - https://drive.google.com/file/d/1KeaSngeepejP-b9MpzTiRgT_6mAvsQJD/view?usp=sharing
+
 🚀 Excited to showcase my latest end-to-end Business Intelligence project using Power BI, where I built a dynamic and insight-driven dashboard for Walmart Market, a multinational retail giant operating in Canada, Mexico, and the United States.
 
 🔍 Project Objectives:
