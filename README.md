@@ -5,13 +5,13 @@ LINK - https://drive.google.com/file/d/1KeaSngeepejP-b9MpzTiRgT_6mAvsQJD/view?us
 
 🚀 Excited to showcase my latest end-to-end Business Intelligence project using Power BI, where I built a dynamic and insight-driven dashboard for Walmart Market, a multinational retail giant operating in Canada, Mexico, and the United States.
 
-🔍 Project Objectives:
+#🔍 Project Objectives:
 1. Track and compare Total Transactions, Total Profit, Total Returns, and Revenue vs Targets
 2. Understand geographic performance down to store city level
 3. Identify high-performing product brands and return trends
 4. Use previous month as a benchmark for evaluating current month results
 
-💡 Key Features Implemented in Power BI:
+#💡 Key Features Implemented in Power BI:
 
 🔹 Matrix Visual:
 
@@ -51,7 +51,7 @@ Disabled unwanted interactions between visuals for better user experience
 ![Dashboard Screenshot](Dashboard%201.jpg)
 
 
-📈 Top Insights Uncovered:-
+#📈 Top Insights Uncovered:-
 
 ✅ Portland reached 1,000+ sales in December — high-performing city
 
@@ -61,7 +61,7 @@ Disabled unwanted interactions between visuals for better user experience
 
 🌎 Mexico's Market outperformed the previous month in both Profit and Revenue — deserves increased focus and investment
 
-🛠️ Tools & Skills Applied:
+#🛠️ Tools & Skills Applied:
 Power BI | DAX | Data Modeling | Conditional Formatting | Drill-Down | Slicers | Bookmarks | Storytelling
 
 This project helped me refine my ability to translate raw data into business strategy, align visuals with executive decision-making, and simulate real-time market reporting.
