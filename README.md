@@ -46,6 +46,11 @@ Created bookmark for “📍 Portland hits 1,000 sales in December”
 Configured button navigation and page-level notes
 Disabled unwanted interactions between visuals for better user experience
 
+### 📸 Dashboard Preview
+
+![ Dashboard Screenshot](Dashboard_1.jpg)
+
+
 📈 Top Insights Uncovered:-
 
 ✅ Portland reached 1,000+ sales in December — high-performing city
