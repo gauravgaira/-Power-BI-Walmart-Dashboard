@@ -48,7 +48,7 @@ Disabled unwanted interactions between visuals for better user experience
 
 ### 📸 Dashboard Preview
 
-![ Dashboard Screenshot](Dashboard_1.jpg)
+![Dashboard Screenshot](Dashboard%201.jpg)
 
 
 📈 Top Insights Uncovered:-
